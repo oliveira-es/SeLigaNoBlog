@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.Playground.exe.config
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.Playground.exe
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.Playground.pdb
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\obj\Debug\SeLigaNoBlog.Playground.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\obj\Debug\SeLigaNoBlog.Playground.exe
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\obj\Debug\SeLigaNoBlog.Playground.pdb
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\TNX.ResolveIT.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\TNX.RssReader.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.pdb
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog.Playground\bin\Debug\SeLigaNoBlog.Playground.exe.config
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog.Playground\obj\Debug\SeLigaNoBlog.Playground.exe
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog.Playground\obj\Debug\SeLigaNoBlog.Playground.pdb

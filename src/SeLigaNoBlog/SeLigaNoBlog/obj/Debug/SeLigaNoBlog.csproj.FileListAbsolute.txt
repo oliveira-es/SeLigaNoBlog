@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\bin\Debug\SeLigaNoBlog.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\bin\Debug\SeLigaNoBlog.pdb
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\bin\Debug\TNX.ResolveIT.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\bin\Debug\TNX.RssReader.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.dll
+C:\Users\Admin\Desktop\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.pdb
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.dll
+C:\Users\Admin\Desktop\CursoC#\src\SeLigaNoBlog\SeLigaNoBlog\obj\Debug\SeLigaNoBlog.pdb
